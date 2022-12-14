@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-image: url('https://images.pexels.com/photos/4862863/pexels-photo-4862863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+}
+h1 {
+color: red;
+background: Black;
+
+font-style: bold;
+font-stretch: semi-expanded;
+text-shadow: 2px 2px white;
+font-size: 50px;
+}
+h2 {
+  color:white;
+  font-size: 40px;
+}
+table{
+
+  font-size: 75px;
+}
+h3{
+  font-size: 90px;
+  color:white;
+}
